@@ -1,1 +1,2 @@
 ABCDEF
+I've add a big and little feature
